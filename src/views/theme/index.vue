@@ -2,9 +2,6 @@
   <div class="app-container">
     <el-card class="box-card">
       <div slot="header">
-        <a class="link-type link-title" target="_blank" href="https://panjiachen.github.io/vue-element-admin-site/guide/advanced/theme.html">
-          Theme documentation
-        </a>
       </div>
       <div class="box-item">
         <span class="field-label">Change Theme : </span>
